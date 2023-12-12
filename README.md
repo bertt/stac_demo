@@ -1,10 +1,12 @@
 # stac_demo
 
+## SPECS
+
 STAC specs: https://github.com/radiantearth/stac-spec/
 
 STAC API specs: https://github.com/radiantearth/stac-api-spec
 
-Sample Static catalog
+## Sample Static catalog of gemeente Utrecht (trees)
 
 https://bertt.github.io/stac_demo/catalog.json
 
