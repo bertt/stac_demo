@@ -48,6 +48,7 @@ $ gdalwarp "STACIT:\"https://planetarycomputer.microsoft.com/api/stac/v1/search?
 
 ![image](https://github.com/bertt/stac_demo/assets/538812/c060debf-1586-43ca-a7cb-83e64caf3b7b)
 
+![image](https://github.com/bertt/stac_demo/assets/538812/f0f1e1c1-ff65-4ed5-86ad-34d942a32676)
 
 ## QGIS STAC Plugin - STAC API Browser
 
