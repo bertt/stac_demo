@@ -24,9 +24,15 @@ https://staclint.com/
 
 Suisse: https://data.geo.admin.ch/api/stac/v0.9
 
+![image](https://github.com/bertt/stac_demo/assets/538812/43768e28-9c88-45a9-8a9d-02754cdabbe5)
+
 Google EarthEngine https://stacindex.org/catalogs/google-earth-engine#/?t=1
 
+![image](https://github.com/bertt/stac_demo/assets/538812/06984a7f-3882-4016-a08c-42e27e96c599)
+
 Microsoft Planetary Computer: https://planetarycomputer.microsoft.com/api/stac/v1
+
+![image](https://github.com/bertt/stac_demo/assets/538812/b30831a2-cee5-4735-be88-52ca128d2b50)
 
 Overview site: https://stacindex.org
 
