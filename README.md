@@ -16,9 +16,66 @@ in STAC Browser: https://radiantearth.github.io/stac-browser/#/external/bertt.gi
 
 in Python Notebook: [stac_demo.ipynb](stac_demo.ipynb)
 
+## File mediatypes
+
+https://pystac.readthedocs.io/en/latest/api/media_type.html
+
+```
+COG = 'image/tiff; application=geotiff; profile=cloud-optimized'
+FLATGEOBUF = 'application/vnd.flatgeobuf'
+GEOJSON = 'application/geo+json'
+GEOPACKAGE = 'application/geopackage+sqlite3'
+GEOTIFF = 'image/tiff; application=geotiff'
+HDF = 'application/x-hdf'
+HDF5 = 'application/x-hdf5'
+HTML = 'text/html'
+JPEG = 'image/jpeg'
+JPEG2000 = 'image/jp2'
+JSON = 'application/json'
+KML = 'application/vnd.google-earth.kml+xml'
+PARQUET = 'application/x-parquet'
+PDF = 'application/pdf'
+PNG = 'image/png'
+TEXT = 'text/plain'
+TIFF = 'image/tiff'
+XML = 'application/xml'
+ZARR = 'application/vnd+zarr'
+```
+
 ## OGC Standard
 
 https://www.ogc.org/requests/ogc-seeks-public-comment-on-adoption-of-stac-and-stac-api-as-community-standards/
+
+## Extensions
+
+https://github.com/stac-extensions/
+
+Web Map Links:
+
+https://github.com/stac-extensions/web-map-links
+
+```
+3D Tiles, 
+OGC WMS
+OGC WMTS
+PMTiles
+TileJSON
+XYZ
+
+  "links": [
+    {
+      "href": "https://storage.googleapis.com/open-cogs/planet-stac/cocabamba-peru/3d-geofox.ai/3DTiles/tileset.json",
+      "rel": "3d-tiles",
+      "title": "3D Tiles",
+      "type": "application/json"
+    },
+]
+```
+
+
+
+
+
 
 ## Validating STAC
 
