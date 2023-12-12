@@ -1,0 +1,68 @@
+{
+  "type": "Feature",
+  "id": "utrecht_trees",
+  "stac_version" : "1.0.0",
+  "stac_extensions" : [
+  ],
+  "bbox": [
+    5.051823,52.055974,5.215158,52.112567
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [5.051823, 52.055974],
+        [5.215158, 52.055974],
+        [5.215158, 52.112567],
+        [5.051823, 52.112567],
+        [5.051823, 52.055974]
+      ]
+    ]
+  },
+  "collection": "landsat-8-l1",
+  "properties": {
+    "collection": "trees",
+    "datetime": "2016-06-01T07:10:11.509271Z"
+  },
+  "assets": {
+            "1606_bomen.geojson":{
+               "type":"application/geojson",
+               "href":" https://bertt.github.io/opendata/netherlands/utrecht/bomen/1606/1606_bomen.geojson",
+               "created":"2016-06-01T07:10:11.509271Z",
+               "updated":"2016-06-01T06:19:31.383374Z",
+               "proj:epsg":4326
+            },
+            "1609_bomen.geojson":{
+              "type":"application/geojson",
+              "href":"  https://bertt.github.io/opendata/netherlands/utrecht/bomen/1609/bomen_1609.geojson",
+              "created":"2016-09-01T07:10:11.509271Z",
+              "updated":"2016-09-01T06:19:31.383374Z",
+              "proj:epsg":4326
+           },
+           "1612_bomen.geojson":{
+            "type":"application/geojson",
+            "href":"  https://bertt.github.io/opendata/netherlands/utrecht/bomen/1612/bomen_1612.geojson",
+            "created":"2016-12-01T07:10:11.509271Z",
+            "updated":"2022-12-01T06:19:31.383374Z",
+            "proj:epsg":4326
+         }
+ },
+  "links": [
+    {
+      "rel": "self",
+      "href": "trees.json"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json"
+    },
+    {
+      "rel": "collection",
+      "href": "../collection.json"
+    },
+    {
+      "rel": "root",
+      "href": "../catalog.json"
+    }
+  ]
+}

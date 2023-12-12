@@ -1,0 +1,51 @@
+{
+  "type": "Collection",
+  "stac_version" : "1.0.0",
+  "stac_extensions" : [
+  ],
+  "id" : "Utrecht",
+  "title" : "Utrecht",
+  "description" : "Collection of Gemeente Utrecht geographic resources",
+  "keywords" : [
+  ],
+  "license" : "proprietary",
+  "extent" : {
+    "spatial" : {
+      "bbox" : [
+        [
+            5.051823,52.055974,5.215158,52.112567
+        ]
+      ]
+    },
+    "temporal" : {
+      "interval" : [
+        [
+          "2018-05-21T15:44:59Z",
+          "2018-07-08T15:45:34Z"
+        ]
+      ]
+    }
+  },
+  "summaries": {},
+  "properties" : {
+    "collection" : "Utrecht"
+  },
+  "links" : [
+    {
+      "href" : "catalog.json",
+      "rel" : "root"
+    },
+    {
+      "href" : "catalog.json",
+      "rel" : "parent"
+    },
+    {
+      "href" : "collection.json",
+      "rel" : "self"
+    },
+    {
+      "href" : "./trees/trees.json",
+      "rel" : "item"
+    }
+  ]
+}
