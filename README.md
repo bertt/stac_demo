@@ -40,6 +40,15 @@ Overview site: https://stacindex.org
 
 https://stacindex.org/ecosystem
 
+## GDAL
+
+```
+$ gdalwarp "STACIT:\"https://planetarycomputer.microsoft.com/api/stac/v1/search?&collections=usgs-lcmap-conus-v13&datetime=2021-01-01/2021-12-31&bbox=-79.762,40.496,-71.856,45.013\":asset=lcpri" output.tif
+```
+
+![image](https://github.com/bertt/stac_demo/assets/538812/c060debf-1586-43ca-a7cb-83e64caf3b7b)
+
+
 ## QGIS STAC Plugin - STAC API Browser
 
 ![image](https://github.com/bertt/stac_demo/assets/538812/d4b73c7e-4619-4716-882d-dab30ca9d224)
