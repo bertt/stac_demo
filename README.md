@@ -72,6 +72,8 @@ XYZ
 ]
 ```
 
+mogelijke rel types: 3d-tiles, wms, wmts, pmtiles, xyz, tilejson
+
 ## Best practices
 
 https://github.com/radiantearth/stac-spec/blob/master/best-practices.md
