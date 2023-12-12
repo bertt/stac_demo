@@ -10,6 +10,8 @@ https://bertt.github.io/stac_demo/catalog.json
 
 in STAC Browser: https://radiantearth.github.io/stac-browser/#/external/bertt.github.io/stac_demo/catalog.json
 
+in Python Notebook: [stac_demo.ipynb](stac_demo.ipynb)
+
 ## OGC Standard
 
 https://www.ogc.org/requests/ogc-seeks-public-comment-on-adoption-of-stac-and-stac-api-as-community-standards/
