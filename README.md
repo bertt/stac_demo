@@ -72,10 +72,9 @@ XYZ
 ]
 ```
 
+## Best practices
 
-
-
-
+https://github.com/radiantearth/stac-spec/blob/master/best-practices.md
 
 ## Validating STAC
 
