@@ -16,6 +16,20 @@ in STAC Browser: https://radiantearth.github.io/stac-browser/#/external/bertt.gi
 
 in Python Notebook: [stac_demo.ipynb](stac_demo.ipynb)
 
+Sample asset:
+
+```
+ "assets": {
+            "pois.geojson":{
+               "type":"application/geojson",
+               "href":" https://bertt.github.io/opendata/netherlands/arnhem/pois.geojson",
+               "created":"2016-06-01T07:10:11.509271Z",
+               "updated":"2016-06-01T06:19:31.383374Z",
+               "proj:epsg":4326
+            }
+ },
+```
+
 ## File mediatypes
 
 https://pystac.readthedocs.io/en/latest/api/media_type.html
