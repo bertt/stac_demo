@@ -47,6 +47,12 @@
             "proj:epsg":4326
          }
  },
+     "thumbnail": {
+      "href": "trees_thumbnail.png",
+      "title": "Thumbnail image",
+      "type": "image/png"
+    },    
+
   "links": [
     {
       "rel": "self",
