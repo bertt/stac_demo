@@ -80,7 +80,12 @@ https://github.com/radiantearth/stac-spec/blob/master/best-practices.md
 
 ## Validating STAC
 
-https://staclint.com/
+On the Web: https://staclint.com/
+
+Command line: https://github.com/stac-utils/stac-validator
+
+![image](https://github.com/bertt/stac_demo/assets/538812/229ff7c5-1383-4ce0-a98f-14ad1000351e)
+
 
 ## Other STAC Catalogs
 
