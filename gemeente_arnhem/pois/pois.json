@@ -27,7 +27,7 @@
   "assets": {
             "pois.geojson":{
                "type":"application/geojson",
-               "href":" https://bertt.github.io/opendata/netherlands/netherlands/arnhem/pois.geojson",
+               "href":" https://bertt.github.io/opendata/netherlands/arnhem/pois.geojson",
                "created":"2016-06-01T07:10:11.509271Z",
                "updated":"2016-06-01T06:19:31.383374Z",
                "proj:epsg":4326
