@@ -64,7 +64,7 @@ https://www.ogc.org/requests/ogc-seeks-public-comment-on-adoption-of-stac-and-st
 
 https://github.com/stac-extensions/
 
-Web Map Links:
+1] Web Map Links:
 
 https://github.com/stac-extensions/web-map-links
 
@@ -85,6 +85,10 @@ XYZ
     },
 ]
 ```
+
+2] Authentication
+
+https://github.com/stac-extensions/authentication
 
 mogelijke rel types: 3d-tiles, wms, wmts, pmtiles, xyz, tilejson
 
