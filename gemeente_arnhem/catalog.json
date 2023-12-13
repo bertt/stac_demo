@@ -1,0 +1,26 @@
+{
+  "type": "Catalog",
+  "stac_version": "1.0.0",
+  "stac_extensions": [],
+  "id": "arnhem-stac-collection-catalog",
+  "title": "STAC for Gemeente Anhem",
+  "description": "STAC for Gemeente Arnhem",
+  "links": [
+    {
+      "href": "./catalog.json",
+      "rel": "self"
+    },
+    {
+      "href": "./catalog.json",
+      "rel": "root"
+    },
+    {
+      "href": "../catalog.json",
+      "rel": "parent"
+    },
+    {
+      "href": "./collection.json",
+      "rel": "child"
+    }
+  ]
+}

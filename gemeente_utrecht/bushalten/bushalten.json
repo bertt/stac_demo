@@ -1,0 +1,54 @@
+{
+  "type": "Feature",
+  "id": "utrecht_bushalten",
+  "stac_version" : "1.0.0",
+  "stac_extensions" : [
+  ],
+  "bbox": [
+    5.051823,52.055974,5.215158,52.112567
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [5.051823, 52.055974],
+        [5.215158, 52.055974],
+        [5.215158, 52.112567],
+        [5.051823, 52.112567],
+        [5.051823, 52.055974]
+      ]
+    ]
+  },
+  "collection": "bushalten",
+  "properties": {
+    "collection": "bushalten",
+    "datetime": "2016-06-01T07:10:11.509271Z"
+  },
+  "assets": {
+            "bushalten.geojson":{
+               "type":"application/geojson",
+               "href":" https://bertt.github.io/opendata/netherlands/utrecht/bushalten.geojson",
+               "created":"2016-06-01T07:10:11.509271Z",
+               "updated":"2016-06-01T06:19:31.383374Z",
+               "proj:epsg":4326
+            }
+    },
+  "links": [
+    {
+      "rel": "self",
+      "href": "bushalten.json"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json"
+    },
+    {
+      "rel": "collection",
+      "href": "../collection.json"
+    },
+    {
+      "rel": "root",
+      "href": "../catalog.json"
+    }
+  ]
+}

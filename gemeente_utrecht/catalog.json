@@ -1,0 +1,26 @@
+{
+  "type": "Catalog",
+  "stac_version": "1.0.0",
+  "stac_extensions": [],
+  "id": "utrecht-stac-collection-catalog",
+  "title": "STAC for Gemeente Utrecht",
+  "description": "STAC for Gemeente Utrecht",
+  "links": [
+    {
+      "href": "./catalog.json",
+      "rel": "self"
+    },
+    {
+      "href": "./catalog.json",
+      "rel": "root"
+    },
+    {
+      "href": "./collection.json",
+      "rel": "child"
+    },
+    {
+      "href": "../catalog.json",
+      "rel": "parent"
+    }
+  ]
+}

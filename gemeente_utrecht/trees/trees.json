@@ -19,7 +19,7 @@
       ]
     ]
   },
-  "collection": "landsat-8-l1",
+  "collection": "trees",
   "properties": {
     "collection": "trees",
     "datetime": "2016-06-01T07:10:11.509271Z"

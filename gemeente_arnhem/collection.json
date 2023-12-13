@@ -3,9 +3,9 @@
   "stac_version" : "1.0.0",
   "stac_extensions" : [
   ],
-  "id" : "Utrecht",
-  "title" : "Utrecht",
-  "description" : "Collection of Gemeente Utrecht geographic resources",
+  "id" : "Arnhem",
+  "title" : "Arnhem",
+  "description" : "Collection of Gemeente Arnhem geographic resources",
   "keywords" : [
   ],
   "license" : "proprietary",
@@ -13,7 +13,7 @@
     "spatial" : {
       "bbox" : [
         [
-            5.051823,52.055974,5.215158,52.112567
+          5.761986,51.910497,6.088657,52.023980
         ]
       ]
     },
@@ -28,7 +28,7 @@
   },
   "summaries": {},
   "properties" : {
-    "collection" : "Utrecht"
+    "collection" : "Arnhem"
   },
   "links" : [
     {
@@ -44,7 +44,7 @@
       "rel" : "self"
     },
     {
-      "href" : "./trees/trees.json",
+      "href" : "./pois/pois.json",
       "rel" : "item"
     }
   ]

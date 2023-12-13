@@ -1,22 +1,25 @@
 {
-  "type": "Catalog",
+  "id": "Bert's STAC-Catalog",
   "stac_version": "1.0.0",
-  "stac_extensions": [],
-  "id": "utrecht-stac-collection-catalog",
-  "title": "STAC for Gemeente Utrecht",
-  "description": "STAC for Gemeente Utrecht",
+  "type": "Catalog",
+  "description": "Berts STAC Catalog",
   "links": [
-    {
-      "href": "./catalog.json",
-      "rel": "self"
-    },
-    {
-      "href": "./catalog.json",
-      "rel": "root"
-    },
-    {
-      "href": "./collection.json",
-      "rel": "child"
-    }
-  ]
+      {
+          "rel": "root",
+          "href": "./catalog.json",
+          "type": "application/json"
+      },
+      {
+          "rel": "child",
+          "href": "./gemeente_utrecht/catalog.json",
+          "type": "application/json"
+      },
+      {
+          "rel": "child",
+          "href": "./gemeente_arnhem/catalog.json",
+          "type": "application/json"
+      }
+  ],
+  "stac_extensions": [],
+  "title": "STAC Catalog"
 }
