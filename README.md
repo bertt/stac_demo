@@ -143,3 +143,6 @@ $ gdalwarp "STACIT:\"https://planetarycomputer.microsoft.com/api/stac/v1/search?
 
 ![image](https://github.com/bertt/stac_demo/assets/538812/57fb7fd2-48c5-4593-9f2f-461d04c79fc0)
 
+### FME STAC Metadata Reader 
+
+https://docs.safe.com/fme/html/FME-Form-Documentation/FME-ReadersWriters/pkg-stac-metadata/stac-metadata.htm
