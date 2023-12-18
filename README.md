@@ -86,11 +86,11 @@ XYZ
 ]
 ```
 
+mogelijke rel types: 3d-tiles, wms, wmts, pmtiles, xyz, tilejson
+
 2] Authentication
 
 https://github.com/stac-extensions/authentication
-
-mogelijke rel types: 3d-tiles, wms, wmts, pmtiles, xyz, tilejson
 
 ## Best practices
 
